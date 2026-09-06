@@ -1,0 +1,31 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# Jupyter Notebook checkpoints & autosaves
+.ipynb_checkpoints/
+.virtual_documents/
+
+# Editor & IDE settings
+.vscode/
+.idea/
+
+# Environment variables & secrets (API keys, credentials)
+.env
+*.env
+
+# Large serialized model artifacts (optional, keep off GitHub if >100MB)
+*.pkl
+*.joblib
+*.h5
+
+# OS generated files
+.DS_Store
+Thumbs.db
