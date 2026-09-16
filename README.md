@@ -9,7 +9,7 @@
 
 ## Live demo & web app
 
-**Interactive app:** [Click here to launch the Streamlit App]()
+**Interactive app:** [click here to launch the Streamlit App](https://customer-churn-prediction-model-h9y7zurp9gmpwg3jdwg4am.streamlit.app/)
 
 ## Business overview
 
