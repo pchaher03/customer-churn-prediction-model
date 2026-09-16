@@ -1,0 +1,12 @@
+services:
+  churn-app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    environment:
+      - DOCKER_BUILDKIT=0
+    ports:
+      - "8501:8501"
+    volumes:
+      - ./app.py:/app/app.py
+    restart: unless-stopped

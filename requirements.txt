@@ -1,8 +1,11 @@
-kagglehub
+streamlit
 pandas
 numpy
+joblib
 matplotlib
 seaborn
-joblib
 scikit-learn
-streamlit
+shap
+streamlit-shap
+kagglehub
+plotly
